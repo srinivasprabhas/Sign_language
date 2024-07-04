@@ -12,7 +12,7 @@
 3. Run the index.ipynb file
 4. you will notice that there will be an additonal file downloaded by the name asl_model.h5
 5. ensure asl_model.h5 is properly saved
-6. Now,gun the GUI.ipynb file
+6. Now,run the GUI.ipynb file
 7. upload the image or video that you want to predict
 
 ## Sample outputs
